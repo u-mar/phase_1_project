@@ -28,23 +28,6 @@ The best release date should on from may to august,
 ![runtime](images/runtime.png)
 ![runtime](images/runtime_box.png)
 
-## Recommendation for Microsoft
-
-Based on the key insights gained from the analysis, the following recommendations are proposed for Microsoft's movie studio:
-
-1. Genre Selection: Prioritize the production of movies within the Adventure, Animation, and Sci-Fi genres, as they have a proven track record>
-
-2. Director Hiring: Collaborate with directors who have demonstrated a strong ROI and consistently received high ratings. Eric Piccoli is an e>
-
-3. Runtime Optimization: Tailor the runtime duration of movies to align with audience preferences within each genre. Animation movies should a>
-
-By implementing these recommendations, Microsoft's movie studio can increase the likelihood of producing successful and profitable movies. The>
-
-
-
-2. Directors: Certain directors exhibit exceptional Return on Investment (ROI) and consistently receive high ratings. Notably, Kyle Balda has demonstrated success in the Animation genre and is a recommended choice for collaboration.
-
-3. Runtimes: Optimal movie runtimes vary across genres. Animation movies tend to perform well with shorter runtimes, approximately 110 minutes, while other genres may have different audience preferences. Customizing the runtime to each genre enhances audience engagement.
 
 ## Recommendation for Microsoft
 
