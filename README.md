@@ -58,3 +58,9 @@ Based on the key insights gained from the analysis, the following recommendation
 
 By implementing these recommendations, Microsoft's movie studio can increase the likelihood of producing successful and profitable movies. These insights will guide resource allocation, attract top talent, and deliver captivating stories that resonate with audiences. With a strategic approach and data-driven decision-making, Microsoft can establish a strong foothold in the film industry.
 
+## Repository Structure
+
+- `data/`: Contains the movie dataset used for analysis.
+- `index.ipynb/`: Jupyter notebooks used for data exploration and analysis.
+- `images/`: contains pictures
+- `README.md`: This file, providing an overview of the project and its insights
